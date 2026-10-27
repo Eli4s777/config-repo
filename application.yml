@@ -1,3 +1,5 @@
 campus:
   organization: EMI
   message: TP6-v3
+tp:
+  delay-ms: 2500
